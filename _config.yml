@@ -1,0 +1,14 @@
+layout_spectrum: 0.452739
+color:
+  saturation: 0.1874329
+  brandStrength: 0.6353384
+  lightness: 1
+  brandColors:
+    - '#271E16'
+    - '#C5D6EA'
+    - '#645343'
+    - '#7F6F64'
+    - '#FFEABD'
+  rhythmicContrast: 0.2787325
+typography_spectrum: 0.2303974
+name: deepee
